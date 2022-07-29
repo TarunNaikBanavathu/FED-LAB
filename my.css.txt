@@ -1,0 +1,11 @@
+tr{
+    background-color: rgb(0, 153, 51);
+}
+.v{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.u{
+    padding-left:40px;
+    padding-right:40px;
+}
